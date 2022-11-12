@@ -1,4 +1,5 @@
-![python](https://user-images.githubusercontent.com/104052187/201468918-c9670ec4-b719-42f8-8b12-83e1bf8a3d70.jpg)
+![python-4785225](https://user-images.githubusercontent.com/104052187/201469352-09ba5ffe-dcfc-422e-8ab9-b10a61dd6c75.png)
+
 
 # <h1 align="center">Vishwjeet Chauhan</h1>
 
