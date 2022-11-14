@@ -6,7 +6,7 @@
 I love the entier preocess of Exploratory Data Analysis. I am highly result-driven and self-motivated to solve business problems using a logical approach and willing to take up new challenges.
 
 ### Connect With ME :handshake:
-:e-mail:-vishc70@gmail.com
+### :e-mail:-vishc70@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwjeet-chauhan14/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)]()
