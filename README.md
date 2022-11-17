@@ -36,6 +36,8 @@ I love the entier preocess of Exploratory Data Analysis. I am highly result-driv
 
 • [Python and Its library For Data Analysis](https://medium.com/@Coding_Bulls/python-and-its-library-for-data-analysis-c75755227f41)
 
+• [Data Analyst Road Map Beginner To Advance](https://medium.com/@Coding_Bulls/data-analyst-road-map-beginner-to-advance-c9ab6e4d3c43)
+
 ## GitHub Stats :bar_chart:	
 
 [![Vishwjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwjeet14)](https://github.com/anuraghazra/github-readme-stats)
