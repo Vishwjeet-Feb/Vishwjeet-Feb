@@ -34,9 +34,11 @@ I love the entier preocess of Exploratory Data Analysis. I am highly result-driv
 
 ## Blog Spot:fountain_pen:	
 
-• [Python and Its library For Data Analysis](https://medium.com/@Coding_Bulls/python-and-its-library-for-data-analysis-c75755227f41)
+• [The Science of Proof: Understanding the Process of Hypothesis Testing]( https://link.medium.com/mUnyd3Vphvb)
 
 • [Data Analyst Road Map Beginner To Advance](https://medium.com/@Coding_Bulls/data-analyst-road-map-beginner-to-advance-c9ab6e4d3c43)
+
+• [Data Analyst Road Map Beginner To Advance](https://medium.com/@Coding_Bulls/data-analyst-road-map-beginner-to-advance-c9ab6e4d3c43)
 
 ## GitHub Stats :bar_chart:	
 
