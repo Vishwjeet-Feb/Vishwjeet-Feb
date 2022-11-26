@@ -36,9 +36,11 @@ I love the entier preocess of Exploratory Data Analysis. I am highly result-driv
 
 • [The Science of Proof: Understanding the Process of Hypothesis Testing]( https://link.medium.com/mUnyd3Vphvb)
 
-• [Data Analyst Road Map Beginner To Advance](https://medium.com/@Coding_Bulls/data-analyst-road-map-beginner-to-advance-c9ab6e4d3c43)
+• [How to Use SQL-MySQL to Analyze Your Data Quick and Easy]( https://link.medium.com/43tqqU8phvb)
 
-• [Data Analyst Road Map Beginner To Advance](https://medium.com/@Coding_Bulls/data-analyst-road-map-beginner-to-advance-c9ab6e4d3c43)
+• [Python for Data Analysis: 4 Best Libraries You Need to Know]( https://link.medium.com/vyR2JLeqhvb)
+
+• [How to be successful as a data analyst?]( https://link.medium.com/gKvPJolqhvb)
 
 ## GitHub Stats :bar_chart:	
 
