@@ -46,6 +46,6 @@ I love the entier preocess of Exploratory Data Analysis. I am highly result-driv
 
 ## GitHub Stats :bar_chart:	
 
-[![Vishwjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwjeet14)](https://github.com/anuraghazra/github-readme-stats)
+[![Vishwjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishwjeet_Feb)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwjeet14&layout=compact)](https://github.com/vishwjeet14/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwjeet_Feb&layout=compact)](https://github.com/vishwjeet14/github-readme-stats)
