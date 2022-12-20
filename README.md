@@ -42,6 +42,8 @@ I love the entier preocess of Exploratory Data Analysis. I am highly result-driv
 
 • [How to be successful as a data analyst?]( https://link.medium.com/gKvPJolqhvb)
 
+• [How to Extract Data from Websites the Easy Way](https://medium.com/@vishwjeet_feb/how-to-extract-data-from-websites-the-easy-way-58fb66cf8a69)
+
 ## GitHub Stats :bar_chart:	
 
 [![Vishwjeet's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishwjeet14)](https://github.com/anuraghazra/github-readme-stats)
