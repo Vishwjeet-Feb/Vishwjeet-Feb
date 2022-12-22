@@ -34,15 +34,15 @@ I love the entier preocess of Exploratory Data Analysis. I am highly result-driv
 
 ## Blog Spot:fountain_pen:	
 
-• [The Science of Proof: Understanding the Process of Hypothesis Testing]( https://link.medium.com/mUnyd3Vphvb)
+• [The Science of Proof: Understanding the Process of Hypothesis Testing](https://www.linkedin.com/pulse/science-proof-understanding-process-hypothesis-testing-chauhan)
 
-• [How to Use SQL-MySQL to Analyze Your Data Quick and Easy]( https://link.medium.com/43tqqU8phvb)
+• [How to Use SQL-MySQL to Analyze Your Data Quick and Easy](https://www.linkedin.com/pulse/how-use-sql-mysql-analyze-your-data-quick-andeasy-vishwjeet-chauhan)
 
-• [Python for Data Analysis: 4 Best Libraries You Need to Know]( https://link.medium.com/vyR2JLeqhvb)
+• [Python for Data Analysis: 4 Best Libraries You Need to Know](https://www.linkedin.com/pulse/python-data-analysis-4-best-libraries-you-need-toknow-chauhan)
 
-• [How to be successful as a data analyst?]( https://link.medium.com/gKvPJolqhvb)
+• [How to be successful as a data analyst?](https://www.linkedin.com/pulse/how-successful-dataanalyst-vishwjeet-chauhan)
 
-• [How to Extract Data from Websites the Easy Way](https://medium.com/@vishwjeet_feb/how-to-extract-data-from-websites-the-easy-way-58fb66cf8a69)
+• [How to Extract Data from Websites the Easy Way](https://www.linkedin.com/pulse/how-extract-data-from-websites-easyway-vishwjeet-chauhan)
 
 ## GitHub Stats :bar_chart:	
 
