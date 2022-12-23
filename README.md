@@ -34,6 +34,8 @@ I love the entier preocess of Exploratory Data Analysis. I am highly result-driv
 
 ## Blog Spot:fountain_pen:	
 
+• [Getting Started with Machine Learning: A Beginner's Guide](https://www.linkedin.com/pulse/getting-started-machine-learning-beginners-guide-vishwjeet-chauhan)
+
 • [The Science of Proof: Understanding the Process of Hypothesis Testing](https://www.linkedin.com/pulse/science-proof-understanding-process-hypothesis-testing-chauhan)
 
 • [How to Extract Data from Websites the Easy Way](https://www.linkedin.com/pulse/how-extract-data-from-websites-easyway-vishwjeet-chauhan)
@@ -43,6 +45,8 @@ I love the entier preocess of Exploratory Data Analysis. I am highly result-driv
 • [Python for Data Analysis: 4 Best Libraries You Need to Know](https://www.linkedin.com/pulse/python-data-analysis-4-best-libraries-you-need-toknow-chauhan)
 
 • [How to be successful as a data analyst?](https://www.linkedin.com/pulse/how-successful-dataanalyst-vishwjeet-chauhan)
+
+
 
 
 ## GitHub Stats :bar_chart:	
