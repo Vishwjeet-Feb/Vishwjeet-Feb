@@ -1,56 +1,134 @@
-![Screenshot](https://user-images.githubusercontent.com/104052187/201469512-561b82b3-cc95-43d0-ace7-71bf7a52e050.png)
-# <h1 align="center">Vishwjeet Singh Chauhan</h1>
+![Purple Modern Best Portfolio LinkedIn Banner ](https://github.com/Vishwjeet-Feb/Vishwjeet-Feb/assets/104052187/be2119b8-728d-4330-9fe5-fed31d699f4c)
+<h1 align="center">Vishwjeet Singh Chauhan <a href="https://aira.fr/"><![image](https://github.com/Vishwjeet-Feb/Vishwjeet-Feb/assets/104052187/20d9588f-c689-4888-93ef-dfcbf2eb0b9a)
+ width="35" height="35"></a></h1> 
 <p align="center">
-  Data analyst, Business Analyst, Business Intelligence
+  Technical Content Writer
 </p>
-I love the entier preocess of Exploratory Data Analysis. I am highly result-driven and self-motivated to solve business problems using a logical approach and willing to take up new challenges.
+Experienced technical writer with over 4 years of proven success in creating clear and concise documentation for a variety of audiences. Adept at translating complex technical information into user-friendly manuals, guides, API documents and online content. Strong attention to detail and a passion for simplifying complex concepts to improve user experiences. Excellent communication and collaboration skills with cross-functional teams. 
+<br>
+<br>
 
-### Connect With ME :handshake:
-### :e-mail:-vishc70@gmail.com
+<table>
+  <thead>
+    <tr>
+      <th colspan="4">Expertise</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width=300><a>Markdown</a></td>
+      <td align="center" width=300><a>SQL</a></td>
+      <td align="center" width=300><a>XML</a></td>
+      <td align="center" width=300><a>Python</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a>HTML</a></td>
+      <td align="center"><a>Microsoft Office</a></td>
+      <td align="center"><a>Frame Maker</a></td>
+      <td align="center"><a>Confluence</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a>Github</a></td>
+      <td align="center"><a>Postman</a></td>
+      <td align="center"><a>Jira</a></td>
+      <td align="center"><a>Canva</a></td>
+    </tr>
+      <tr>
+      <td align="center"><a>Miro</a></td>
+      <td align="center"><a>Github</a></td>
+      <td align="center"><a>Wordpress</a></td>
+      <td align="center"><a>Wiki</a></td>
+    </tr>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishwjeet-chauhan14/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vishwjeetchauhan14)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/vishwjeet_feb) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/vishwjeet.feb) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vishwjeet_chauhan14/)
+  </tbody>
+</table>
 
-## Technical Skills :briefcase:	
+### Contact
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/-Seaborn-blue?style=for-the-badge&logo=appveyor)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width=400><a>Phone : 9039290529</a></td>
+      <td align="center" width=400><a>E-Mail : vishc70@gmail.com</a></td>
+      <td align="center" width=400><a href="https://www.linkedin.com/in/vishwjeet-chauhan14/">LinkedIn</a></td>
+    </tr>
 
-## Blog Spot:fountain_pen:	
-
-• [Getting Started with Machine Learning: A Beginner's Guide](https://www.linkedin.com/pulse/getting-started-machine-learning-beginners-guide-vishwjeet-chauhan)
-
-• [The Science of Proof: Understanding the Process of Hypothesis Testing](https://www.linkedin.com/pulse/science-proof-understanding-process-hypothesis-testing-chauhan)
-
-• [How to Extract Data from Websites the Easy Way](https://www.linkedin.com/pulse/how-extract-data-from-websites-easyway-vishwjeet-chauhan)
-
-• [How to Use SQL-MySQL to Analyze Your Data Quick and Easy](https://www.linkedin.com/pulse/how-use-sql-mysql-analyze-your-data-quick-andeasy-vishwjeet-chauhan)
-
-• [Python for Data Analysis: 4 Best Libraries You Need to Know](https://www.linkedin.com/pulse/python-data-analysis-4-best-libraries-you-need-toknow-chauhan)
-
-• [How to be successful as a data analyst?](https://www.linkedin.com/pulse/how-successful-dataanalyst-vishwjeet-chauhan)
+  </tbody>
+</table>
 
 
+### EXPERIENCE
 
+<table border="1">
+  <tr>
+    <th>Duration</th>
+    <th>Position</th>
+    <th>Company</th>
+    <th>Responsibilities</th>
+  </tr>
+  <tr>
+    <td>Nov 2023 - Present</td>
+    <td>Technical Content Writer</td>
+    <td>AIRA - Hyper Automation Solutions (Full Time)</td>
+    <td>
+      <ul>
+        <li>Develop user guides, product documentation, and API documentation for software and services.</li>
+        <li>Create white papers to analyze industry trends and present solutions.</li>
+        <li>Write SEO-friendly web content to improve online visibility and drive traffic.</li>
+        <li>Design brochures and flyers to promote products/services.</li>
+        <li>Implement SEO strategies to improve website rankings and keyword visibility.</li>
+        <li>Collaborate with cross-functional teams to ensure accuracy and usability of content.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Nov 2022 - Present</td>
+    <td>Technical Writer and Reviewer</td>
+    <td>Knowledgehut - UpGrad (Freelance)</td>
+    <td>
+      <ul>
+        <li>Engage in blog writing on data science trends for diverse audiences.</li>
+        <li>Design structured course materials for data science training programs.</li>
+        <li>Review and edit technical documents for accuracy and clarity.</li>
+        <li>Collaborate with cross-functional teams, incorporate feedback, and facilitate knowledge sharing.</li>
+        <li>Stay current with industry trends, attend events, and continuously improve content.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Jan 2023 - Aug 2023</td>
+    <td>Content Head</td>
+    <td>Youngovator (Full Time)</td>
+    <td>
+      <ul>
+        <li>Create technical content aligned with organizational goals and user needs.</li>
+        <li>Simplify complex technical concepts for user-friendly documentation.</li>
+        <li>Manage end-to-end documentation projects.</li>
+        <li>Collaborate with cross-functional teams for accuracy.</li>
+        <li>Conduct thorough reviews for quality assurance.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>Jan 2020 - Oct 2022</td>
+    <td>Technical Writer</td>
+    <td>Grandeur Communications (Full Time)</td>
+    <td>
+      <ul>
+        <li>Maintain and update documents to reflect application upgrades and changes, ensuring users have the latest information.</li>
+        <li>Develop detailed documentation to accurately capture project requirements.</li>
+        <li>Create documentation for effective learning solutions, improving knowledge dissemination within organizations.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-## GitHub Stats :bar_chart:	
+  <table border="1" cellspacing="0" cellpadding="10" width="100%">
+    <tr>
+      <td align="center">
+        <p>Thank you for stopping by my portfolio profile! Your interest means a lot to me. I hope you found my work inspiring and informative. Feel free to reach out for any questions or collaborations.</p>
+      </td>
+    </tr>
+  </table>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Vishwjeet-Feb&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwjeet-Feb&theme=dark&background=000000)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github.com/Vishwjeet-Feb/Vishwjeet-Feb/assets/104052187/228a5c30-4511-417d-af99-bc395811214a" alt="Footer Image" width="1800" height="100">
