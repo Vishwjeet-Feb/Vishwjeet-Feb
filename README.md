@@ -131,4 +131,4 @@ Experienced technical writer with over 4 years of proven success in creating cle
     </tr>
   </table>
 
-  <img src="https://github.com/Vishwjeet-Feb/Vishwjeet-Feb/assets/104052187/228a5c30-4511-417d-af99-bc395811214a" alt="Footer Image" width="1800" height="100">
+  <img src="https://github.com/Vishwjeet-Feb/Vishwjeet-Feb/assets/104052187/b004e55d-dc43-4d73-9cf3-13a664343c6a" alt="Footer Image" width="1800" height="100">
