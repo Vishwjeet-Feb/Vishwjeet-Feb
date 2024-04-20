@@ -123,6 +123,50 @@ Experienced technical writer with over 4 years of proven success in creating cle
   </tr>
 </table>
 
+<table border="1">
+  <tr>
+    <th>Article Title</th>
+    <th>Hyperlink</th>
+  </tr>
+  <tr>
+    <td>Introduction of MongoDb for Data Science</td>
+    <td><a href="https://www.knowledgehut.com/blog/data-science/mongodb-for-data-science">https://www.knowledgehut.com/blog/data-science/mongodb-for-data-science</a></td>
+  </tr>
+  <tr>
+    <td>What are AI Models? Types, Benefits, and Examples</td>
+    <td><a href="https://www.knowledgehut.com/blog/data-science/ai-model">https://www.knowledgehut.com/blog/data-science/ai-model</a></td>
+  </tr>
+  <tr>
+    <td>How to Install Spark on Ubuntu: An Instructional Guide</td>
+    <td><a href="https://www.knowledgehut.com/blog/big-data/install-spark-on-ubuntu">https://www.knowledgehut.com/blog/big-data/install-spark-on-ubuntu</a></td>
+  </tr>
+  <tr>
+    <td>Movie Recommendation System: Definition, Strategies, Usecase</td>
+    <td><a href="https://www.knowledgehut.com/blog/data-science/movie-recommendation-system">https://www.knowledgehut.com/blog/data-science/movie-recommendation-system</a></td>
+  </tr>
+  <tr>
+    <td>Power BI vs Tableau: Which Data Visualization Tool is Right for You?</td>
+    <td><a href="https://www.knowledgehut.com/blog/business-intelligence-and-visualization/power-bi-vs-tableau-comparison">https://www.knowledgehut.com/blog/business-intelligence-and-visualization/power-bi-vs-tableau-comparison</a></td>
+  </tr>
+  <tr>
+    <td>SSRS (SQL Server Reporting System) Interview Questions</td>
+    <td><a href="https://www.knowledgehut.com/interview-questions/ssrs-interview-questions">https://www.knowledgehut.com/interview-questions/ssrs-interview-questions</a></td>
+  </tr>
+  <tr>
+    <td>Data Structure and Algorithm Projects with Source Code</td>
+    <td><a href="https://www.knowledgehut.com/blog/programming/data-structure-and-algorithm-projects">https://www.knowledgehut.com/blog/programming/data-structure-and-algorithm-projects</a></td>
+  </tr>
+  <tr>
+    <td>Machine Learning Anomaly Detection</td>
+    <td><a href="https://www.knowledgehut.com/blog/data-science/machine-learning-for-anomaly-detection%23what-is-an-anomaly?%C2%A0">https://www.knowledgehut.com/blog/data-science/machine-learning-for-anomaly-detection%23what-is-an-anomaly?%C2%A0</a></td>
+  </tr>
+  <tr>
+    <td>Top 12 Reasons Why Power BI is Better Than Other BI Tools</td>
+    <td><a href="https://www.knowledgehut.com/blog/business-intelligence-and-visualization/why-power-bi-better-than-other-bi-tools">https://www.knowledgehut.com/blog/business-intelligence-and-visualization/why-power-bi-better-than-other-bi-tools</a></td>
+  </tr>
+</table>
+
+
   <table border="1" cellspacing="0" cellpadding="10" width="100%">
     <tr>
       <td align="center">
